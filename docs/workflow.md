@@ -1,5 +1,5 @@
 Tab Challenge  Workflow & Reasoning
-![Workflow](./workflow.png)
+![Workflow](./docs/workflow.png)
 This document explains the logic I designed for dynamically reordering tabs.
 Goal
 When a user clicks on a tab, that tab should always move to the first position.
